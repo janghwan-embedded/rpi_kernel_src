@@ -7,7 +7,7 @@ OUTPUT="$KERNEL_TOP_PATH/out"
 echo "$OUTPUT"
 
 KERNEL=kernel7
-BUILD_LOG="$KERNEL_TOP_PATH/rpi_preproccess_build_log.txt"
+BUILD_LOG="$KERNEL_TOP_PATH/rpi_preprocess_build_log.txt"
 
 PREPROCESS_FILE=$1
 echo "build preprocessed file: $PREPROCESS_FILE"
